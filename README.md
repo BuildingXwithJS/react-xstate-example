@@ -2,7 +2,7 @@
 
 > Free open-source tutorial on creating a simple React app with XState used for state management
 
-This repository contains code and related materials for [React XState example]() video.
+This repository contains code and related materials for [React XState example](https://youtu.be/g_2lt7bBwpk) video.
 
 ## Project description
 
